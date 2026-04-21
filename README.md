@@ -24,7 +24,7 @@
 3. Для скриншотов: "DarknessBase": 0.3, "EquipLightBonus": 8.0
 
 ## 📸 Скриншоты
-![Темнота в игре](screenshots/darkness.png)
+<img width="1041" height="501" alt="Снимок экрана 2026-04-22 000923" src="https://github.com/user-attachments/assets/a27b7b04-32a7-4d8b-af62-dcef4ea959e4" />
 
 ## 📋 Changelog
 ### v1.0 (2026-04-21)
